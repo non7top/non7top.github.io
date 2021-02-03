@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'No Errors Test Project'
-copyright = '2019, sphinx-action Test Suite'
-author = 'sphinx-action Test Suite'
+project = 'Заметки'
+copyright = '2021-2100, non7top'
+author = 'non7top'
 
 
 # -- General configuration ---------------------------------------------------
