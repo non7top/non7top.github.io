@@ -1,3 +1,4 @@
 .. toctree::
-tools
-chem
+
+   tools
+   chem
