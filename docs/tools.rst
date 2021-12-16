@@ -22,6 +22,28 @@
 К покупке
 =========
 
+******
+Ручной
+******
+
+Ключ для метчиков
+=================
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/watch?v=XVEww6Ylw5c" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+
+*Starrett 174* Tap Wrench, No. 0-14 Tap Size, 1/4" Square Shank Diameter, 3-5/8" Body Length 
+
+.. image:: images/starret-174.jpg
+
+*Starrett 91A/B/C/D* misc sizes
+
+.. image:: images/starret-91.jpg
+
+
 *******
 Электро
 *******
