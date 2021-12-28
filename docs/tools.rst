@@ -57,3 +57,17 @@
 У метабо и боша еще есть модели, но ударные.
 
 .. image:: images/tools/Metabo_BEV_1300-2_600574000.jpg
+
+******
+Ручной
+******
+
+Струбцины из нержиавейки
+========================
+
+Lobster B-clamps B25S (25mm) and B100S (100mm) ~ $30 and $80
+
+https://www.youtube.com/watch?v=XQuqWdKz8BQ
+
+.. image:: images/tools/lobster-b-clamps.png
+
